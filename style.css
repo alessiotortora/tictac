@@ -22,3 +22,8 @@ body {
   align-items: center;
   font-size: 30px;
 }
+
+button {
+  padding: 5px;
+  margin: 20px;
+}
